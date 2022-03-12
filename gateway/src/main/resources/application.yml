@@ -2,6 +2,8 @@ server:
   port: 8000
 
 spring:
+  rabbitmq:
+    port: 15672
   application:
     name: gateway
   cloud:

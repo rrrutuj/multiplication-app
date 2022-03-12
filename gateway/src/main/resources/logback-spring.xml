@@ -17,6 +17,7 @@
         <generateId>true</generateId>
         <charset>UTF-8</charset>
     </appender>
+
     <root level="INFO">
         <appender-ref ref="CONSOLE"/>
         <appender-ref ref="AMQP"/>
