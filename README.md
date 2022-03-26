@@ -1,11 +1,11 @@
 # Simple Multiplication Game
 
-This is a simple multiplication game where User can guess the multiplication of given numbers. Focus is on learing and implementation of microservices.
+This is a simple multiplication game where User can guess the multiplication of given numbers. Focus is on learning and implementation of microservices.
 
-Architecture - Microservices
-Microservices Design Pattern - Gateway
+* **Architecture** - Microservices
+* **Microservices Design Pattern** - Gateway
 
-Components: 
+Components:
   1. Multiplication Service - Core service for Multiplication Game
   2. Gamification Service - Service that generate the scores, leaderboards and badges
   3. Gateway Service - API Gateway with Load Balancing capabilities
